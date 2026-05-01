@@ -1,5 +1,20 @@
 # 💫 About Me:
-Hi, I'm Dhiraj 👋 a B.Tech. Computer Science Student. <br>I have strong foundation of Java Full Stack Development | React.js Development | Frontend & Backend Development |<br>Aspiring Software Engineer | Java Full-stack Developer | Spring Boot | Spring Framework | Microservices | REST API | DSA | <br>React.js Developer | JavaScript | UI/UX designer | DeVops |<br>Cloud computing | Problem Solver. <br><br>
+Hi, I'm Dhiraj Upadhyay 👋  
+A B.Tech Computer Science and Engineering  student and aspiring Software Engineer with a strong foundation in Java Full Stack Development.  
+
+I have hands-on experience designing and developing scalable web applications using Java, Spring Boot, and React.js, with end-to-end expertise in frontend and backend development.
+
+💻 Tech Stack:
+Java | Spring Boot | Spring Framework | Microservices | REST APIs  
+React.js | JavaScript | HTML | CSS  
+MySQL | Git | GitHub  
+
+🚀 Currently:
+- Strengthening Data Structures & Algorithms (DSA)  
+- Exploring DevOps and Cloud Computing  
+- Building real-world full stack projects  
+
+I am passionate about problem-solving, exploring new tech, clean code, and continuous learning. <br><br>
 
 
 ## 🌐 Socials:
